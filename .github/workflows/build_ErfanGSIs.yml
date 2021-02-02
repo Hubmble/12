@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.12.2/miui_GINKGO_20.12.2_2859fdf5c0_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://otafsg.h2os.com/patch/amazone2/GLO/OnePlus7ProOxygen/OnePlus7ProOxygen_13.W.43_GLO_043_2009072044/OnePlus7ProOxygen_13.W.43_OTA_043_all_2009072044_d53d.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
